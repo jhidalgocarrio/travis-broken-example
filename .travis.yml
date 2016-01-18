@@ -6,6 +6,6 @@ php:
 
 notifications:
     email:
-        - havyhidalgo@example.com
+        - havyhidalgo@gmail.com
 
 script: phpunit Test.php
